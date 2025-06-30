@@ -6,15 +6,16 @@ This repository contains my solutions to coding problems solved on the [Code360 
 
 ## 📂 Folder Structure
 
-📁 arrays/
-📁 strings/
-📁 linked-lists/
-📁 stacks-queues/
-📁 trees/
-📁 graphs/
-📁 dynamic-programming/
-📁 sorting-searching/
-📁 miscellaneous/
+- 📁 arrays/
+- 📁 strings/
+- 📁 linked-lists/
+- 📁 stacks-queues/
+- 📁 trees/
+- 📁 graphs/
+- 📁 dynamic-programming/
+- 📁 sorting-searching/
+- 📁 miscellaneous/
+
 
 
 Each folder contains:
