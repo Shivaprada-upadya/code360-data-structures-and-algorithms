@@ -14,7 +14,7 @@ This repository contains my solutions to coding problems solved on the [Code360 
 - 📁 graphs/
 - 📁 dynamic-programming/
 - 📁 sorting-searching/
-- 📁 miscellaneous/
+- 📁 basic-programming/
 
 
 
