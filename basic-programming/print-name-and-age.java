@@ -1,7 +1,7 @@
+//Problem link: https://www.naukri.com/code360/guided-paths/oops-in-java/content/279841/offering/3844019 
+
 import java.util.* ;
-import java.io.*; 
-class Person {
-	
+class Person {	
 	// Complete the class
 	public int age;
 	public String name;
