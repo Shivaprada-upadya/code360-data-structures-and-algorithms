@@ -1,6 +1,6 @@
-import java.util.* ;
+//Problem link: https://www.naukri.com/code360/guided-paths/oops-in-java/content/279841/offering/3844020
 
-import java.io.*; 
+import java.util.* ;
 
 public class Rectangle { 
 
